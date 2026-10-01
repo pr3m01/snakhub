@@ -10,7 +10,7 @@ const PRODUCTS = [
   {id:"diet-coke",name:"Diet Coke",subtitle:"300ml can",mrp:50,price:65,stock:0,tag:"CHILLED",image:"https://aapkabazar.co/_next/image?q=75&url=https%3A%2F%2Fimage.aapkabazar.co%2Fproduct%2F7653%2F1679557857760.png&w=3840"},
   {id:"pepsi-zero",name:"Pepsi Zero Sugar",subtitle:"300ml can",mrp:40,price:55,stock:0,tag:"CHILLED",image:"https://cdn.grofers.com/da/cms-assets/cms/product/83b4d1a1-4556-4b19-a9ce-3c2e89f119fd.jpg"},
   {id:"amul-taaza",name:"Amul Taaza",subtitle:"200ml tetra pack",mrp:17,price:20,stock:0,image:"https://www.bbassets.com/media/uploads/p/s/70001832_2-amul-taaza-fresh-toned-milk.jpg"},
-  {id:"mad-angles",name:"Bingo! Mad Angles",subtitle:"Achaari Masti • 20g",mrp:20,price:0,stock:6,image:"https://m.media-amazon.com/images/I/81yFaSFnu-L.jpg"},
+  {id:"mad-angles",name:"Bingo! Mad Angles",subtitle:"Achaari Masti • 20g",mrp:20,price:30,stock:0,image:"https://m.media-amazon.com/images/I/81yFaSFnu-L.jpg"},
   {id:"kurkure",name:"Kurkure",subtitle:"Masala Munch • 20g",mrp:20,price:30,stock:0,image:"https://f.nooncdn.com/p/pzsku/Z98319C15762746873D4FZ/45/1762437363/36e01de9-3945-4c32-93fe-eb227fa3f1ff.jpg?width=720"},
   {id:"amul-calci",name:"Amul Calci+",subtitle:"250ml chocolate milk",mrp:26,price:0,stock:4,image:"images/amul-calci.webp"}
 ];
