@@ -1,0 +1,10 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SnackHub</title><link rel="stylesheet" href="styles.css"></head>
+<body><header><div class="brand">🛒 <span>Snack</span>Hub</div><div class="sub">Snacks • Drinks • Essentials</div></header>
+<main><section class="hero"><div><h1>Grab your snacks.</h1><p>Fresh stock • Simple ordering • WhatsApp checkout</p></div><div class="mini">Prices shown are selling prices</div></section>
+<section id="products" class="grid"></section>
+<section class="bill"><div class="bill-head"><div><h2>Your Order</h2><p>Your selected items will appear as a bill below.</p></div><button id="clearBtn" class="ghost">Clear</button></div>
+<div id="billItems" class="bill-items"><div class="empty">Your order is empty.</div></div>
+<div class="total-row"><span>Total</span><strong id="total">₹0</strong></div>
+<div class="customer"><input id="customerName" placeholder="Your name *"><input id="customerPhone" placeholder="Your phone number *" inputmode="tel"><textarea id="customerMessage" placeholder="Message / room / delivery note (optional)"></textarea></div>
+<button id="orderBtn" class="order-main">Send Order on WhatsApp</button><p class="note">The button creates a WhatsApp message containing the bill.</p></section></main><footer>SnackHub</footer>
+<script src="products.js"></script><script src="app.js"></script></body></html>
