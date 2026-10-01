@@ -12,5 +12,5 @@ const PRODUCTS = [
   {id:"amul-taaza",name:"Amul Taaza",subtitle:"200ml tetra pack",mrp:17,price:20,stock:0,image:"https://www.bbassets.com/media/uploads/p/s/70001832_2-amul-taaza-fresh-toned-milk.jpg"},
   {id:"mad-angles",name:"Bingo! Mad Angles",subtitle:"Achaari Masti • 20g",mrp:20,price:30,stock:0,image:"https://m.media-amazon.com/images/I/81yFaSFnu-L.jpg"},
   {id:"kurkure",name:"Kurkure",subtitle:"Masala Munch • 20g",mrp:20,price:30,stock:0,image:"https://f.nooncdn.com/p/pzsku/Z98319C15762746873D4FZ/45/1762437363/36e01de9-3945-4c32-93fe-eb227fa3f1ff.jpg?width=720"},
-  {id:"amul-calci",name:"Amul Calci+",subtitle:"250ml chocolate milk",mrp:26,price:35,stock:0,image:"images/amul-calci.webp"}
+  {id:"amul-calci",name:"Amul Calci+",subtitle:"250ml high protein milk",mrp:26,price:35,stock:0,image:"images/amul-calci.webp"}
 ];
